@@ -1,0 +1,4 @@
+C:\Users\niktr\source\repos\Normales\x64\Debug\Normales.exe
+C:\Users\niktr\source\repos\Normales\x64\Debug\Normales.pdb
+C:\Users\niktr\Desktop\UA\2º Año\2.Arquitectura de los Computadores\F3\Entrega F3\Proyecto\x64\Debug\Normales.exe
+C:\Users\niktr\Desktop\UA\2º Año\2.Arquitectura de los Computadores\F3\Entrega F3\Proyecto\x64\Debug\Normales.pdb
